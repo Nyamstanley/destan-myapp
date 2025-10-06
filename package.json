@@ -1,0 +1,12 @@
+{
+  "name": "cicd-app-service-demo",
+  "version": "1.0.0",
+  "description": "Hello World App for Azure App Service CI/CD Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
